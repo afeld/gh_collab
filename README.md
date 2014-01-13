@@ -4,7 +4,7 @@
 
 ## See Also
 
-* http://tom.preston-werner.com/
+* http://tom.preston-werner.com/ (posts by the CEO)
 * http://zachholman.com/posts/how-github-works/
 * [*Drive*](http://www.amazon.com/dp/B004P1JDJO) by Daniel Pink
 * http://tomayko.com/writings/management-style
