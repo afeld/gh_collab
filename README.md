@@ -10,3 +10,4 @@
 * http://tomayko.com/writings/management-style
 * http://redmonk.com/tv/2012/10/24/distributed-management-githubs-ryan-tomayko/
 * [Github: Distributed, Asynchronous, and Self-directed](https://vimeo.com/73278810) by John Britton
+* http://zachholman.com/posts/github-speaking-culture/
