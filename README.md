@@ -11,3 +11,4 @@
 * http://redmonk.com/tv/2012/10/24/distributed-management-githubs-ryan-tomayko/
 * [Github: Distributed, Asynchronous, and Self-directed](https://vimeo.com/73278810) by John Britton
 * http://zachholman.com/posts/github-speaking-culture/
+* [How GitHub Uses GitHub to Build GitHub](http://www.youtube.com/watch?v=qyz3jkOBbQY) by Zach Holman (more technical)
