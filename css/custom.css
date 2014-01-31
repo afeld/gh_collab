@@ -1,3 +1,7 @@
+.slide-background.present {
+  background-size: contain;
+}
+
 .highlight {
   color: #e7ad52;
   text-shadow: 4px 4px 1px #373737;
