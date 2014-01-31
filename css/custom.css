@@ -14,3 +14,7 @@
 .reveal .highlight {
   color: #e7ad52;
 }
+
+.reveal .octicon {
+  font: normal normal 1em octicons;
+}
