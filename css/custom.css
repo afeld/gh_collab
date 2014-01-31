@@ -18,3 +18,7 @@
 .reveal .octicon {
   font: normal normal 1em octicons;
 }
+
+.last-slide h1 {
+  margin-bottom: 40px;
+}
