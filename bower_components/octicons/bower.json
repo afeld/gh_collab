@@ -1,0 +1,24 @@
+{
+  "name": "octicons",
+  "version": "1.2.11",
+  "main": [
+    "octicons/sprockets-octicons.scss",
+    "octicons/octicons.eot",
+    "octicons/octicons.svg",
+    "octicons/octicons.ttf",
+    "octicons/octicons.woff"
+  ],
+  "ignore": [
+    "data/",
+    "docs/",
+    "subsets/",
+    "support/",
+    "svg/",
+    "config.yml",
+    "contributing.md",
+    "README.md",
+    "CHANGELOG.md",
+    "gitignore",
+    "octicons/octicons.css"
+  ]
+}

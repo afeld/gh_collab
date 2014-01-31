@@ -1,0 +1,6 @@
+{
+  "name": "gh_collab",
+  "dependencies": {
+    "octicons": "git@github.com:github/octicons.git"
+  }
+}
