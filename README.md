@@ -16,4 +16,4 @@
 
 ## License
 
-All rights reserved on [the `octicons` files](bower_components/octicons/), as well as the images/SVGs directly under [`assets/`](assets/).  Everything is [CC-BY 4.0](http://creativecommons.org/licenses/by/4.0/deed.en_US).
+All rights reserved on [the `octicons` files](bower_components/octicons/), as well as the images/SVGs directly under [`assets/`](assets/).  Everything else is [CC-BY 4.0](http://creativecommons.org/licenses/by/4.0/deed.en_US), unless otherwise specified.
