@@ -13,3 +13,7 @@
 * http://zachholman.com/posts/github-speaking-culture/
 * [How GitHub Uses GitHub to Build GitHub](http://www.youtube.com/watch?v=qyz3jkOBbQY) by Zach Holman (more technical)
 * [More press](https://github.com/about/press)
+
+## License
+
+All rights reserved on [the `octicons` files](bower_components/octicons/), as well as the images/SVGs directly under [`assets/`](assets/).  Everything is [CC-BY 4.0](http://creativecommons.org/licenses/by/4.0/deed.en_US).
