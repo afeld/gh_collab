@@ -9,7 +9,7 @@ From [Campus Party Brazil](http://www.campus-party.com.br/2014/index.html) 2014 
     * [Campus Party Brazil blog](http://blog.campus-party.com.br/post/75170721637/ja-estamos-no-quarto-e-penultimo-dia-de-conteudos)
     * [INFO Online](http://info.abril.com.br/noticias/internet/2014/01/campus-party-hacker-do-github-explica-crescimento-da-rede-social-de-desenvolvedores.shtml)
 
-## See Also
+## See also
 
 * http://tom.preston-werner.com/ (posts by the CEO)
 * http://zachholman.com/posts/how-github-works/
